@@ -172,7 +172,14 @@ html {
 }
 
 .blackSpace3 {
+  display: flex;
+  align-items: center;
   height: 5rem;
   width: 100%;
   background-color: black;
+}
+
+.bottom {
+  width: 960px;
+  margin: auto;
 }
